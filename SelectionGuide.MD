@@ -53,6 +53,7 @@
 
 - Integrated safety function
   - 1: STO (Safe Torque Off) SIL3
+
 - Number of preset speeds
   - 16
 
@@ -65,7 +66,19 @@
 |Relay outputs|3|
 |Safety function inputs|2: For safety function STO|
 
+## I/O expansion modules (optional) 
+|I/O type| Number of I/O|
+| ------------- |:-------------:|
+|Analog inputs|2 differential analog inputs confi gurable via software as current (0-20 mA/ 4-20 mA), or for PTC, PT100 or PT1000, 2 or 3-wire|
+|Digital inputs|6|
+|Digital outputs|2: Assignable|
+|Relay outputs|3: NO contacts|
 
+## Communication
+| | Type of Protocol|
+| ------------- |:-------------:|
+|Integrated|Modbus/TCP, Modbus serial link|
+|Option modules|EtherNet/IP and Modbus/TCP Dual port, Profi Net, CANopen RJ45 Daisy Chain, Sub-D and screw terminals, Profi bus DP V1 and DeviceNet|
 
 
 
