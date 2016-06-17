@@ -80,11 +80,21 @@
 |Integrated|Modbus/TCP, Modbus serial link|
 |Option modules|EtherNet/IP and Modbus/TCP Dual port, Profi Net, CANopen RJ45 Daisy Chain, Sub-D and screw terminals, Profi bus DP V1 and DeviceNet|
 
+## Configuration and runtime tools
+- Graphic display terminal, embedded web server, DTM (Device Type Manager), SoMove software
 
 
-
-
-
+## Standards and certifications
+- UL 508C, EN/IEC 61800-3, 
+- EN/IEC 61800-3 environment 1 category C2, 
+- EN/IEC 61800-3 environment 2 category C3, 
+- EN/IEC 61800-5-1, 
+- IEC 61000-3-12, 
+- IEC 60721-3, 
+- IEC 61508,
+- DNV-GL Marine certifi cation, 
+- Atex 2/22, 
+- Atex 1/21
 
 
 
