@@ -9,5 +9,5 @@
 ## [Option: Communication modules] (Option/CommunicationModules.md)
 ## [Option: EMC filters] (Option/EMC_Filters.md)
 ## [Option: Line chokes] (Option/Line_Chokes.md)
-## [Motor Starts: Drive+circuit braker+ contactor] (Motor_Starts.md)
+## [Motor Starts: Drive + Circuit braker + Contactor] (Motor_Starts.md)
 ## [Dimensions: Overall dimensions] (Dimensions.md)
