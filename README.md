@@ -1,4 +1,4 @@
-# SE_OpenCat_DRV_ATV340
+# SE_OpenCat_DRV_ATV600
 This is the open catalog for Schneider-Electric industry product for Altivar machine drive ATV340.
 
 It can be a new approach to replace the existing PDF catalog, with easier and clearier management of the version alongside the content.
