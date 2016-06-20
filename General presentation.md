@@ -12,7 +12,7 @@ solutions are available with IP 21, IP 23, IP 54 and IP 55 protection degrees.
   - Access to all relevant machine data for a perfect machine optimisation
   - Real-time asset monitoring to maintain an optimal machine effectiveness
 
-### Embedded machine functions such as positioning ensure maximum distributed control performances
+### Embedded machine functions to ensure maximum distributed control performances
 
 ## Extended machine availability
 
