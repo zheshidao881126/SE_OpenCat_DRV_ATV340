@@ -1,6 +1,6 @@
 # General presentation
 
-Altivar Machine drives offer .
+Altivar Machine ATV340, a variable speed drive designed for Original Equipment Manufacturers (OEMs), is apt to design machine with optimal performances, to fulfill advanced application requirements for 3 Phase synchronous and asynchronous motors from 0.75 to 75 kW (1 to 100 Hp).
 
 ## Improved machine performance
 
