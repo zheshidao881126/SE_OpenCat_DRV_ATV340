@@ -5,13 +5,13 @@ Altivar Machine ATV340, a variable speed drive designed for Original Equipment M
 ## Improved machine performance
 
 ### Enhanced control of various kinds of motors
-  - Incresed speed bandwidth
+  - Increased speed bandwidth
   - Maximum torque availability
   - Reduced application cycle time
 
 ### Standard Ethernet connectivity 
   - Minimum automation cycle time for faster execution
-  - Access to all relevant machine data for a perfect machine optimisation
+  - Access to all relevant machine data for a perfect machine optimization
   - Real-time asset monitoring to maintain an optimal machine effectiveness
 
 ### Maximum distributed control performance
