@@ -1,10 +1,10 @@
 
 
-## Market segments
-  - Water & wastewater
-  - Oil & gas
-  - Mining, minerals & metals
-  - Food & beverage
+## Application focus
+  - Packaging
+  - Meterial Handling
+  - Meterial working
+  - Hoisting
 
 ## Mounting type
   - Wall mounting for 
